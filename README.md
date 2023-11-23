@@ -2,7 +2,7 @@
 ## Computational Linguistics Course 
 ### Assignment 1 
 
-My solution of the assignment on N-gram language models. The models include bigram, trigram, and 4-gram models. 
+My solution of the assignment on N-gram language models. The models include bigram, trigram, and 4-gram models. The discussion of the models' performance is provided in the [report](https://github.com/uliana65/N-Gram-Models/blob/main/discussion.pdf).  
 
 ### Usage 
 
