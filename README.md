@@ -1,8 +1,6 @@
-# N-Gram-Models 
-## Computational Linguistics Course 
-### Assignment 1 
+# N-Gram-Models
 
-My solution of the assignment on N-gram language models. The models include bigram, trigram, and 4-gram models. The discussion of the models' performance is provided in the [report](https://github.com/uliana65/N-Gram-Models/blob/main/discussion.pdf).  
+My implementation of N-gram language models for random text generation based on probabilities. The scripts include bigram, trigram, and 4-gram models. The discussion of the models' performance is provided in this [file](https://github.com/uliana65/N-Gram-Models/blob/main/discussion.pdf).  
 
 ### Usage 
 
